@@ -3,7 +3,7 @@
     "links": [
       {
         "id": 1,
-        "text": "Home",
+        "text": "Surf",
         "href": "home",
         "icon": "Icons/home.png",
         "alt": "icon home",
@@ -11,7 +11,7 @@
       },
       {
         "id": 2,
-        "text": "Option1",
+        "text": "Bodyboard",
         "href": "option1",
         "icon": "Icons/products.png",
         "alt": "icon products",
@@ -19,7 +19,7 @@
       },
       {
         "id": 3,
-        "text": "Option2",
+        "text": "Neoprenos",
         "href": "option2",
         "icon": "Icons/explore.png",
         "alt": "icon explore",
@@ -27,7 +27,7 @@
       },
       {
         "id": 4,
-        "text": "Option3",
+        "text": "Skate",
         "href": "contact",
         "icon": "Icons/explore.png",
         "alt": "icon explore",
@@ -35,7 +35,7 @@
       },
       {
         "id": 5,
-        "text": "Project",
+        "text": "Ropa",
         "href": "project",
         "icon": "Icons/projects.png",
         "alt": "icon project",
@@ -61,7 +61,7 @@
     ]
   },
   "section-hero": {
-    "title": "Welcome to Landing Template",
+    "title": "Surfing App",
     "subtitle": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur eius at vitae molestias nam nobis quae possimus corporis quasi fuga? Quas ratione, itaque reprehenderit consequatur facilis nihil provident impedit esse.",
     "bg": {
       "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714064507/drone_landing/backgrounds/bg-hero.png",
