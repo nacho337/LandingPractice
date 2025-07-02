@@ -61,8 +61,8 @@
     ]
   },
   "section-hero": {
-    "title": "Las Palmas Surf",
-    "subtitle": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur eius at vitae molestias nam nobis quae possimus corporis quasi fuga? Quas ratione, itaque reprehenderit consequatur facilis nihil provident impedit esse.",
+    "title": "LAS PALMAS SURF",
+    "subtitle": "LandinPage dedicada a seguir practicando React y Tailwindcss",
     "bg": {
       "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1750331934/image_1_1_aifbyi.png",
       "alt": "bg hero image"
@@ -84,7 +84,7 @@
     "links": [
       {
         "id": 1,
-        "text": "Homeeeeee",
+        "text": "Home",
         "href": "home",
         "external": false
       },
