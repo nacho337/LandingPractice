@@ -1,143 +1,122 @@
 {
   "section-header": {
-    "links": [
-      {
-        "id": 1,
-        "text": "Surf",
-        "href": "home",
-        "icon": "Icons/home.png",
-        "alt": "icon home",
-        "external": false
-      },
-      {
-        "id": 2,
-        "text": "Bodyboard",
-        "href": "option1",
-        "icon": "Icons/products.png",
-        "alt": "icon products",
-        "external": false
-      },
-      {
-        "id": 3,
-        "text": "Neoprenos",
-        "href": "option2",
-        "icon": "Icons/explore.png",
-        "alt": "icon explore",
-        "external": false
-      },
-      {
-        "id": 4,
-        "text": "Skate",
-        "href": "contact",
-        "icon": "Icons/explore.png",
-        "alt": "icon explore",
-        "external": false
-      },
-      {
-        "id": 5,
-        "text": "Ropa",
-        "href": "project",
-        "icon": "Icons/projects.png",
-        "alt": "icon project",
-        "external": false
-      },
-      {
-        "id": 6,
-        "text": "Contact Us",
-        "href": "mailto:example@gmail.com?subject=Contact",
-        "icon": "Icons/contact.png",
-        "alt": "icon contact",
-        "external": true
-      },
-      {
-        "id": 8,
-        "text": "Blog",
-        "href": "https://www.blogger.com/",
-        "icon": "Icons/blog.png",
-        "icon-color": "Icons/blog-color.png",
-        "alt": "icon blog",
-        "external": true
-      }
-    ]
+    "navbar": ["Why us?", "Overview", "Professionals", "Lifestyle", "Project"],
+    "blog": "Blog",
+    "contact": "Contact",
+    "logo": "logos/4.png",
+    "alt": "Landing logo",
+    "logo2": "logos/1.png",
+    "alt2": "Landing logo"
   },
-  "section-hero": {
-    "title": "LAS PALMAS SURF",
-    "subtitle": "LandinPage dedicada a seguir practicando React y Tailwindcss",
-    "bg": {
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1750331934/image_1_1_aifbyi.png",
-      "alt": "bg hero image"
-    }
+  "section-one": {
+    "title": "Nexusfood: Connecting the Eating Habits of People and Pets",
+    "image": "perrohumano.jpg",
+    "alt": "one section image"
   },
-  "section-example": {},
-  "section-contact": {
-    "text": "Get in touch! Enter your email below to reach out to us.",
+  "section-two": {
+    "title": "Book an appointment",
+    "filtersbar": {
+      "hospital": ["Hospital", "Item1", "Item2"],
+      "department": ["Department", "Item1", "Item2"],
+      "professionals": ["Professionals", "Item1", "Item2"],
+      "date": ["Date", "Item1", "Item2"],
+      "time": ["Time", "Item1", "Item2"]
+    },
+    "button": "Search"
+  },
+  "section-three": {
+    "title": "At Nexusfood, we are on a unique mission...",
+    "subtitle": "to merge the worlds of human and animal food into one innovative platform. We specialize in designing and developing new technology that not only anticipates trends, but also detects changes in the eating habits of both people and pets.",
+    "image1": "perroconservilleta.jpg",
+    "alt1": "three section image 1",
+    "image2": "Nutricion.jpg",
+    "alt2": "three section image 2",
+    "image3": "perroconpollo.jpg",
+    "alt3": "three section image 3"
+  },
+  "section-four": {
+    "title": "At Nexusfood, we are committed to excellence and innovation. We believe that together we can build a future where food is a shared, healthy and enriching experience for everyone.",
+    "subtitle": "Join us on this exciting journey to a world where people and their pets can enjoy healthier, happier lives together.",
+    "image": "video.webp",
+    "alt": "four section image",
+    "pill": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318279/medical_landing/cgqvizy18sa04gfuff5q.png",
+    "pill_alt": "pill image",
+    "pill_text1": "5 km",
+    "pill_text2": "From Pharmacy",
+    "band": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318279/medical_landing/mgglynnzomsw8275qm3o.png",
+    "band_alt": "band-aid image",
+    "band_text1": "3 km",
+    "band_text2": "From Hospital"
+  },
+  "section-five": {
+    "title1": "Nurturing the connection between humans and pets.",
+    "subtitle1": "Join us on this exciting journey to a world where people and their pets can enjoy healthier, happier lives together.",
+    "image1": "five1.webp",
+    "alt1": "five section image1",
+    "title2": "Binding bonds through food.",
+    "subtitle2": "Join us on this exciting journey to a world where people and their pets can enjoy healthier, happier lives together.",
+    "image2": "five2.webp",
+    "alt2": "five section image2"
+  },
+  "section-six": {
+    "title": "At Nexusfood, we are committed to excellence and innovation.",
+    "subtitle1": "Mission:",
+    "subtitle2": "Vision:",
+    "description1": "Our mission is to revolutionize the way people and their pets eat, offering a joint alternative that promotes the health and well-being of all. We strive to develop an agile and optimal platform that allows companies to better understand the needs of their customers and offer products and services adapted to their dietary requirements.",
+    "description2": "Our vision is to create a world where food is a bond between humans and pets, promoting healthy and sustainable eating habits for all. We aspire to be leaders in the human and pet food market, using technology and artificial intelligence to drive positive change in the industry."
+  },
+  "section-seven": {
+    "title": "Contact Us",
+    "subtitle": "",
     "input_placeholder": "Enter your email",
-    "button": "Contact Us",
+    "button": "Contact",
     "error": "Please enter a valid email address."
   },
   "section-footer": {
-    "trademark": "AeroAutonomy",
-    "slogan": "slogan",
-    "copy": "All Rights Reserved 2024",
-    "design": "Designed by",
-    "designer": "Robert Smith",
-    "links": [
-      {
-        "id": 1,
-        "text": "Home",
-        "href": "home",
-        "external": false
+    "paragraph": "We believe that together we can build a future where food is a shared, healthy and enriching experience for everyone. Join us on this exciting journey to a world where people and their pets can enjoy healthier, happier lives together.",
+    "links": {
+      "Company": {
+        "name": "Company",
+        "data": [
+          "Why us?",
+          "Overview",
+          "Professionals",
+          "Lifestyle",
+          "Suscribe"
+        ]
       },
-      {
-        "id": 2,
-        "text": "Option1",
-        "href": "option1",
-        "external": false
+      "Support": {
+        "name": "Support",
+        "data": ["Support Center", "24x7 Service", "Quick Chat"]
       },
-      {
-        "id": 3,
-        "text": "Option2",
-        "href": "contact",
-        "external": false
+      "Contact": {
+        "name": "Contact",
+        "data": ["+1826535375535", "+1843228662422", "call@nexusfood.com"]
       },
-      {
-        "id": 6,
-        "text": "Project",
-        "href": "project",
-        "external": false
-      },
-      {
-        "id": 7,
-        "text": "Contact Us",
-        "href": "mailto:example@gmail.com?subject=Contact",
-        "external": true
-      },
-      {
-        "id": 8,
-        "text": "Blog",
-        "href": "https://www.blogger.com/",
-        "external": true
-      }
-    ]
+      "facebook-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318281/medical_landing/hjq0dwit3dofven8tuqv.png",
+      "twitter-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318281/medical_landing/vmtv5mcgy42lqyohhoqd.png",
+      "linkedin-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318281/medical_landing/aaq0ffsigfezrku5k2gt.png",
+      "social-media-alt": "social media image",
+      "copy": "Copy right @2022",
+      "copy-name": "Nexusfood",
+      "designBy": "Design by",
+      "designBy-mame": "Sourav Aich"
+    }
   },
-  "logo": {
-    "url": "/Logos/Logo.png",
-    "alt": "logo image",
-    "text": "TextLogo"
+  "backgrounds": {
+    "1": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318280/medical_landing/xwmdyoo3dz9wtdrfb6oh.png"
   },
-  "logo-color": {
-    "url": "/Logos/LogoNegro.svg",
-    "alt": "logo image",
-    "text": "TextLogo"
-  },
-  "contact": {
-    "email": "example@gmail.com"
+  "project": {
+    "picture": "project.jpg",
+    "title": "Nexusfood: Platform For Eating Habits Of People And Pets",
+    "paragraph": "At the heart of our project is Artificial Intelligence, a powerful tool that allows us to analyze data quickly and efficiently to offer an optimal experience to our users. We strive to create an agile and optimal platform that allows companies to better understand consumer trends and unify the feeding of people and pets.",
+    "logo": "/logos/3.png",
+    "alt": "project logo"
   },
   "blog": {
-    "icon": "Icons/blog.png",
-    "icon-color": "Icons/blog-color.png",
+    "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713971967/new%20icons/f8hthk8boox5nag7odig.png",
     "title": "Blog",
     "text": "Visit our blog!",
-    "url": "https://www.blogger.com/"
+    "url": "https://nexusfood.blog.smartbiderdev.com"
   }
 }

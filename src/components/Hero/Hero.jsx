@@ -1,22 +1,35 @@
 import data from '../../data.json';
 
 function Hero() {
+  const words = data['section-one'].title.split(' ');
+
   return (
-    <section id="home">
-      <div className="pt-32 flex flex-col items-center justify-start space-y-2">
-        <h1 className="text-center w-[90vw] max-w-[800px] sm:w-4/5 lg:w-2/3 text-2xl sm:text-4xl font-bold lg:leading-[2.5rem] tracking-[0.05em]">
-          {data['section-hero'].title}
-        </h1>
-        <h3 className="text-xs sm:text-md lg:text-xl w-full sm:w-4/5 px-8 mx-auto text-center mt-2">
-          {data['section-hero'].subtitle}
-        </h3>
+    <div className="relative">
+      <div className="grid sm:grid-cols-2 gap-2 mt-24">
+        <div className="px-4 flex flex-col justify-center items-center text-3xl sm:text-4xl md:text-5xl font-bold">
+          <h2
+            className="text-left sm:text-end mb-4"
+            style={{ lineHeight: '1.2' }}
+          >
+            {words.map((word, index) => (
+              <span
+                key={index}
+                style={{
+                  color: word === 'Connecting' ? '#2B88D9' : 'inherit',
+                }}
+              >
+                {word}{' '}
+              </span>
+            ))}
+          </h2>
+        </div>
         <img
-          src={data['section-hero'].bg.url}
-          alt={data['section-hero'].bg.alt}
-          className="w-full h-auto bg-cover"
+          src={data['section-one'].image}
+          alt={data['section-one'].alt}
+          className="object-cover mx-auto w-full sm:min-h-[240px] rounded-md mb-4 sm:mt-4"
         />
       </div>
-    </section>
+    </div>
   );
 }
 
