@@ -1,9 +1,9 @@
 {
   "section-header": {
-    "navbar": ["Home", "Shop", "Accesories", "Boards", "About Us"],
+    "navbar": ["Home", "Shop", "Accesories", "Boards", "About"],
     "blog": "Blog",
     "contact": "Contact",
-    "logo": "https://res.cloudinary.com/dijbczjp9/image/upload/c_thumb,w_200,g_face/v1752837110/SURFING_APP_voodcf.png",
+    "logo": "logos/4.png",
     "alt": "Landing logo",
     "logo2": "logos/1.png",
     "alt2": "Landing logo"
@@ -15,15 +15,15 @@
   },
   "section-two": {
     "title": "Book an appointment",
-    "filtersbar": {
-      "hospital": ["Hospital", "Item1", "Item2"],
-      "department": ["Department", "Item1", "Item2"],
-      "professionals": ["Professionals", "Item1", "Item2"],
-      "date": ["Date", "Item1", "Item2"],
-      "time": ["Time", "Item1", "Item2"]
+    "subtitle": "Lo mejor de Surfsy",
+    "image": "https://res.cloudinary.com/dijbczjp9/image/upload/v1752852350/image_2_grjshk.png  ",
+    "alt": "two section image",
+    "subtitles": [
+      "Creative solutions for modern problems",
+      "Empowering teams through technology",
+      "Designing with purpose"
+    ]
     },
-    "button": "Search"
-  },
   "section-three": {
     "title": "At Nexusfood, we are on a unique mission...",
     "subtitle": "to merge the worlds of human and animal food into one innovative platform. We specialize in designing and developing new technology that not only anticipates trends, but also detects changes in the eating habits of both people and pets.",
