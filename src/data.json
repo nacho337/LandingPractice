@@ -1,16 +1,16 @@
 {
   "section-header": {
-    "navbar": ["Why us?", "Overview", "Professionals", "Lifestyle", "Project"],
+    "navbar": ["Home", "Shop", "Accesories", "Boards", "About Us"],
     "blog": "Blog",
     "contact": "Contact",
-    "logo": "logos/4.png",
+    "logo": "https://res.cloudinary.com/dijbczjp9/image/upload/c_thumb,w_200,g_face/v1752837110/SURFING_APP_voodcf.png",
     "alt": "Landing logo",
     "logo2": "logos/1.png",
     "alt2": "Landing logo"
   },
   "section-one": {
-    "title": "Nexusfood: Connecting the Eating Habits of People and Pets",
-    "image": "perrohumano.jpg",
+    "title": "Surfsy Las Palmas",
+    "image": "https://res.cloudinary.com/dijbczjp9/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1750331934/image_1_1_aifbyi.png",
     "alt": "one section image"
   },
   "section-two": {
