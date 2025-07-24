@@ -10,7 +10,7 @@
   },
   "section-one": {
     "title": "Surfsy Las Palmas",
-    "image": "https://res.cloudinary.com/dijbczjp9/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1750331934/image_1_1_aifbyi.png",
+    "image": "https://res.cloudinary.com/dijbczjp9/image/upload/v1753351755/image_1_5_efzvas.png",
     "alt": "one section image"
   },
   "section-two": {
@@ -25,14 +25,10 @@
     ]
     },
   "section-three": {
-    "title": "At Nexusfood, we are on a unique mission...",
+    "title": "Problem I was solving",
     "subtitle": "to merge the worlds of human and animal food into one innovative platform. We specialize in designing and developing new technology that not only anticipates trends, but also detects changes in the eating habits of both people and pets.",
-    "image1": "perroconservilleta.jpg",
-    "alt1": "three section image 1",
-    "image2": "Nutricion.jpg",
-    "alt2": "three section image 2",
-    "image3": "perroconpollo.jpg",
-    "alt3": "three section image 3"
+    "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1752852350/image_2_grjshk.png ",
+    "alt1": "three section image 1"
   },
   "section-four": {
     "title": "At Nexusfood, we are committed to excellence and innovation. We believe that together we can build a future where food is a shared, healthy and enriching experience for everyone.",
