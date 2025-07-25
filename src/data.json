@@ -14,15 +14,10 @@
     "alt": "one section image"
   },
   "section-two": {
-    "title": "Book an appointment",
-    "subtitle": "Lo mejor de Surfsy",
-    "image": "https://res.cloudinary.com/dijbczjp9/image/upload/v1752852350/image_2_grjshk.png  ",
-    "alt": "two section image",
-    "subtitles": [
-      "Creative solutions for modern problems",
-      "Empowering teams through technology",
-      "Designing with purpose"
-    ]
+   "title": "Problem I was solving",
+    "subtitle": "to merge the worlds of human and animal food into one innovative platform. We specialize in designing and developing new technology that not only anticipates trends, but also detects changes in the eating habits of both people and pets.",
+    "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1752852350/image_2_grjshk.png ",
+    "alt1": "three section image 1"
     },
   "section-three": {
     "title": "Problem I was solving",
@@ -31,42 +26,28 @@
     "alt1": "three section image 1"
   },
   "section-four": {
-    "title": "At Nexusfood, we are committed to excellence and innovation. We believe that together we can build a future where food is a shared, healthy and enriching experience for everyone.",
-    "subtitle": "Join us on this exciting journey to a world where people and their pets can enjoy healthier, happier lives together.",
-    "image": "video.webp",
-    "alt": "four section image",
-    "pill": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318279/medical_landing/cgqvizy18sa04gfuff5q.png",
-    "pill_alt": "pill image",
-    "pill_text1": "5 km",
-    "pill_text2": "From Pharmacy",
-    "band": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318279/medical_landing/mgglynnzomsw8275qm3o.png",
-    "band_alt": "band-aid image",
-    "band_text1": "3 km",
-    "band_text2": "From Hospital"
+    "title": "Problem I was solving",
+    "subtitle": "to merge the worlds of human and animal food into one innovative platform. We specialize in designing and developing new technology that not only anticipates trends, but also detects changes in the eating habits of both people and pets.",
+    "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1752852350/image_2_grjshk.png ",
+    "alt1": "three section image 1"
   },
   "section-five": {
-    "title1": "Nurturing the connection between humans and pets.",
-    "subtitle1": "Join us on this exciting journey to a world where people and their pets can enjoy healthier, happier lives together.",
-    "image1": "five1.webp",
-    "alt1": "five section image1",
-    "title2": "Binding bonds through food.",
-    "subtitle2": "Join us on this exciting journey to a world where people and their pets can enjoy healthier, happier lives together.",
-    "image2": "five2.webp",
-    "alt2": "five section image2"
+   "title": "Problem I was solving",
+    "subtitle": "to merge the worlds of human and animal food into one innovative platform. We specialize in designing and developing new technology that not only anticipates trends, but also detects changes in the eating habits of both people and pets.",
+    "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1752852350/image_2_grjshk.png ",
+    "alt1": "three section image 1"
   },
   "section-six": {
-    "title": "At Nexusfood, we are committed to excellence and innovation.",
-    "subtitle1": "Mission:",
-    "subtitle2": "Vision:",
-    "description1": "Our mission is to revolutionize the way people and their pets eat, offering a joint alternative that promotes the health and well-being of all. We strive to develop an agile and optimal platform that allows companies to better understand the needs of their customers and offer products and services adapted to their dietary requirements.",
-    "description2": "Our vision is to create a world where food is a bond between humans and pets, promoting healthy and sustainable eating habits for all. We aspire to be leaders in the human and pet food market, using technology and artificial intelligence to drive positive change in the industry."
+    "title": "Problem I was solving",
+    "subtitle": "to merge the worlds of human and animal food into one innovative platform. We specialize in designing and developing new technology that not only anticipates trends, but also detects changes in the eating habits of both people and pets.",
+    "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1752852350/image_2_grjshk.png ",
+    "alt1": "three section image 1"
   },
   "section-seven": {
-    "title": "Contact Us",
-    "subtitle": "",
-    "input_placeholder": "Enter your email",
-    "button": "Contact",
-    "error": "Please enter a valid email address."
+    "title": "Problem I was solving",
+    "subtitle": "to merge the worlds of human and animal food into one innovative platform. We specialize in designing and developing new technology that not only anticipates trends, but also detects changes in the eating habits of both people and pets.",
+    "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1752852350/image_2_grjshk.png ",
+    "alt1": "three section image 1"
   },
   "section-footer": {
     "paragraph": "We believe that together we can build a future where food is a shared, healthy and enriching experience for everyone. Join us on this exciting journey to a world where people and their pets can enjoy healthier, happier lives together.",
