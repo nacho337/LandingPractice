@@ -73,7 +73,7 @@ function TwoSection() {
             className="text-[#6A6A6A] text-lg mb-4 px-4 sm:px-0"
             style={{ lineHeight: '1.2' }}
           >
-            {data['section-two'].subtitle}
+            {data['section-three'].subtitle}
           </p>
           <div className="grid grid-cols-2 gap-4">
             <img
